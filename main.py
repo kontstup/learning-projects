@@ -1,3 +1,6 @@
+#For everything to work, you need to have the asd and fiv libraries preinstalled and that the photos from which you want to get encodings are in the same folder with the code.
+#The whole program is made functional in case you need to encode not the whole face, but its individual parts.
+
 import face_recognition as fr
 import cv2
 
